@@ -14,12 +14,14 @@ With over six years of experience, I specialize in securing endpoints, hardening
 ## 🚀 Projects
 
 - [The Cybesecurity Homelab](https://homelab.zerodave.io) where I provide a full step-by-step configuration of a SOC in your homelab. Everything is automated where possible, and I provide the scripts needed to have a similar environment to use to expand your skills. You can also check the [The Cybersecurity Homelab Repository](https://github.com/zerodavesec/cybersecurity-homelab-website).
-- [REMpy](https://github.com/zerodavesec/rempy) is a python program that will perform basic static malware analysis (for now), with CTI enrichment, and MITTRE ATT&CK mapping.
+- [REMpy](https://github.com/zerodavesec/rempy) is a python program that will perform basic static malware analysis (for now), with CTI enrichment, and MITRE ATT&CK mapping.
 
 ## 📝 Blog & Writing
 
 I currently have two websites in motion:
 🔗 [My Cybersecurity Website](https://zerodave.io), where I cover technical topics that relate to cybersecurity providing in-depth explanations and practical examples, I share career advice based on my experience to motivate and encourage you to become a better professional, and where I write my personal opinon about the latest trends and news in the field.
+
+🔗 [The Cybersecurity Homelab](https://homelab.zerodave.io)
 
 ## 🤝 Connect  
 Let’s discuss security, automation, or collaboration:  
