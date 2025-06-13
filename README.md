@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Martin | Detection & Response Engineer
 
-![ZeroDave Security Banner](https://github.com/user-attachments/assets/38f456d9-a32c-4a7f-a7c8-1a613ad68c10)
+![ZeroDave Security Banner](https://github.com/user-attachments/assets/1268b3b7-33f0-4184-9965-dc5ab7828248)
 
 **Threat Detection & Response | Security Automation & Integrations | Security Engineering**
 
