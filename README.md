@@ -8,7 +8,7 @@
 
 ---
 
-## 🛡️ **Threat Detection & Response | Security Automation & Integrations | Security Engineering**
+## 🛡️ **Threat Detection & Response | Automation & API Integrations | Security Engineering**
 
 With over six years of experience, I specialize in securing endpoints, hardening cloud environments, and automating threat detection. My expertise spans security engineering, threat intelligence, and practical defense implementation across diverse technology stacks.
 
@@ -19,7 +19,7 @@ With over six years of experience, I specialize in securing endpoints, hardening
 ### 🎯 **Threat Detection & Response**
 Advanced threat hunting across hybrid environments, behavioral analytics implementation, SIEM platform optimization (Splunk, Elastic, Sentinel), custom detection rule development using YARA and Sigma, real-time threat correlation, and incident response orchestration. Expertise in malware analysis, IOC enrichment, and threat actor TTPs mapping to MITRE ATT&CK framework.
 
-### 🤖 **Security Automation & Integrations**
+### 🤖 **Automation & API Integrations**
 Designing and implementing security orchestration workflows, API-driven security tool integrations, automated vulnerability assessment pipelines, custom SOAR playbooks, and intelligent alert triage systems. Proficient in building scalable automation solutions that reduce manual overhead while improving detection accuracy and response times.
 
 ### ⚙️ **Security Engineering**
