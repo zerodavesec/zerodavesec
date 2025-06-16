@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm David Martin / ZeroDave
 
-![design (5)](https://github.com/user-attachments/assets/59f3fafe-e677-44d6-bfdf-ad06a6345f9d)
+![Image](https://github.com/user-attachments/assets/39897a87-b1ce-4d56-bc2e-50635ef2ec89)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7700FF&center=true&vCenter=true&width=600&lines=Threat+Detection+%26+Response;Security+Automation;Always+Learning%2C+Always+Hunting" alt="Typing SVG" />
